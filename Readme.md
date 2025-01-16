@@ -33,7 +33,7 @@ To get started with this project, follow these steps:
 2. Change Directory
 
     ```bash
-   cd Mern-blog-web-application>
+   cd Mern-blog-web-application
 
 3. Install Dependencies
 
